@@ -1,0 +1,12 @@
+name: hiergraph
+channels:
+        - defaults
+        - conda-forge
+dependencies:
+        - python=3.9
+        - numpy
+        - scipy
+        - h5py
+        - pythonocc-core=7.5.1
+        - occt=7.5.1
+        - pip

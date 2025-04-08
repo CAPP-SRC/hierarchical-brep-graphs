@@ -1,0 +1,4 @@
+*.step
+*.h5
+/data/*
+src/__pycache__/
